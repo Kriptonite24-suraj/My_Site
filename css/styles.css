@@ -24,8 +24,8 @@ h1{
 .download
 {
     position: relative;
-    height: 720px;
-    width:1440px;
+    height: 400px;
+    width:1350px;
    
     margin-bottom: 0;
     padding-bottom: 0;
@@ -74,15 +74,15 @@ hr{
 .bottom_cloud
 {
     position: absolute;
-    left: 100px;
-    bottom: 800px;
+    left: 80px;
+    bottom: 420px;
    
 }
 .top_cloud
 {
     position: absolute;
-    right: 300px;
-    top:50px;
+    right: 100px;
+    top:100px;
 }
 .skill-row
 {
