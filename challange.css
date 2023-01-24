@@ -1,0 +1,64 @@
+/*.red-------->we can also do it like this but down below is more accurate !
+{
+    
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    position: relative;
+    left: 200px;
+}
+
+.blue
+{
+    
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    bottom: 100px;
+    
+}
+.yellow
+{
+    
+    width: 100px;
+    height: 100px;
+    background-color:yellow;
+    position: relative;
+    left: 100px;
+    bottom: 200px;
+}*/
+
+body{
+    margin: 0px;
+}
+.red
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position:absolute;
+    left: 400px;
+    top: 400px;
+    
+    
+    
+}
+.blue
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top:  200px
+    
+}
+.yellow
+{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    position: absolute;
+    
+}
